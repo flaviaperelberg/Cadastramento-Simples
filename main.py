@@ -1,4 +1,4 @@
-# Implemente um programa capaz de simular o cadastramento de um funcionário de uma empresa. Para isso, deve perdir os seguintes dados: nome, endereço, idade, telefone, cargo, salário. Ao final do cadastro, o programa deve imprimir: Cadastro realizado com sucesso. 
+# Implemente um programa capaz de simular o cadastramento de um funcionário de uma empresa. Para isso, deve pedir os seguintes dados: nome, endereço, idade, telefone, cargo, salário. Ao final do cadastro, o programa deve imprimir: Cadastro realizado com sucesso. 
 
 print ('Bem-vindos(a) ao cadastramento de funcionários, por favor coloque seus dados quando for solicitado:')
 
